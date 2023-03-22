@@ -12,7 +12,7 @@ The special Easter Egg that I have added in when the solution equals to the digi
 <h3>2. Calculations: </h3>
 <img src="https://github.com/LIGHTNING86/OIBSIP/blob/main/Level-2_Task_1%20Calculator_WebApp/assets/Number_Entry.png"/>
 <br>
-<h3>2. Easter Egg: </h3>
+<h3>3. Easter Egg: </h3>
 Tried to implement an Easter Egg like OnePlus did in their Calculator Application...
 <br><br>
 <img src="https://github.com/LIGHTNING86/OIBSIP/blob/main/Level-2_Task_1%20Calculator_WebApp/assets/Easter_Egg.png"/>
